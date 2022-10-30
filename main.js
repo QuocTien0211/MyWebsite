@@ -1,6 +1,6 @@
 console.log("Chào mọi người");
-var a=51;
-var b=123; 
+var a=1000;
+var b=2000; 
 var c=a+b;
 var firstName = "Nguyễn Quốc ";
 var lastName = "Tiến";
