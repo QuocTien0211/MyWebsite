@@ -1,0 +1,9 @@
+.logo img{
+    height: 100px;
+}
+.heading{
+    align-items: center;
+    color: red;
+    margin-top: 30px;
+    background-color: aqua;
+}
